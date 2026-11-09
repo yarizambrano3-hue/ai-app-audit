@@ -1,0 +1,7 @@
+# Revisión manual OWASP Top 10 (baseline)
+- A01 IDOR en /note/<id>: (resultado)
+- A03 SQL injection en login: (resultado)
+- A03 XSS almacenado en notas: (resultado)
+- A05 Consola de depuración /console: (resultado)
+- A02 Hash MD5 sin sal: (resultado)
+- Cabeceras de seguridad ausentes: (lista)
